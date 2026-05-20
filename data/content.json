@@ -1,0 +1,181 @@
+{
+  "profile": {
+    "name": "Yuvaraj R",
+    "tagline": "Explorer • Photographer • Community Builder",
+    "bio": "A 25-year-old adventurer from Karnataka with a passion for the outdoors, photography, and bringing people together. From solo trekking across Himachal Pradesh to hosting community game nights, I believe in living life to the fullest while making meaningful connections.",
+    "location": "Bengaluru, Karnataka",
+    "email": "ryuvarajd0812@gmail.com",
+    "phone": "+91-9449584578",
+    "instagram": "_u.v__",
+    "languages": ["English", "Kannada", "Tamil", "Hindi", "Telugu"],
+    "skills": [
+      "Photography",
+      "Trekking & Mountaineering",
+      "Community Engagement",
+      "Team Sports",
+      "Painting",
+      "Event Hosting"
+    ]
+  },
+  "adventures": [
+    {
+      "id": "himachal-solo",
+      "title": "Solo Backpacking Across Himachal",
+      "category": "trekking",
+      "location": "Himachal Pradesh",
+      "date": "March 2025",
+      "description": "A month-long solo journey through the mountains, pushing my limits and discovering inner strength. From McLeod Ganj to Spiti Valley, every day brought new challenges and unforgettable moments.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200",
+      "featured": true,
+      "tags": ["backpacking", "solo-travel", "himachal", "mountains"]
+    },
+    {
+      "id": "skydiving-adventure",
+      "title": "First Skydive - Conquering Fear",
+      "category": "adventure-sports",
+      "location": "Mysore, Karnataka",
+      "date": "January 2025",
+      "description": "Jumping out of a plane at 10,000 feet - the most exhilarating 60 seconds of freefall. This experience taught me that comfort zones are meant to be broken.",
+      "image": "https://images.unsplash.com/photo-1583920580146-b89c8b651a07?w=1200",
+      "featured": true,
+      "tags": ["skydiving", "adventure", "adrenaline"]
+    },
+    {
+      "id": "western-ghats-trek",
+      "title": "Monsoon Trekking in Western Ghats",
+      "category": "trekking",
+      "location": "Western Ghats, Karnataka",
+      "date": "July 2024",
+      "description": "Multiple treks through the lush green mountains during monsoon season. The waterfalls, mist-covered peaks, and challenging trails made every step worth it.",
+      "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=1200",
+      "featured": false,
+      "tags": ["trekking", "monsoon", "western-ghats", "nature"]
+    },
+    {
+      "id": "bungee-jump",
+      "title": "Bungee Jumping - Taking the Leap",
+      "category": "adventure-sports",
+      "location": "Rishikesh, Uttarakhand",
+      "date": "October 2024",
+      "description": "Standing at the edge, 83 meters above the ground. That moment before the jump taught me more about trust and courage than anything else.",
+      "image": "https://images.unsplash.com/photo-1622580840118-d1e2be2502f7?w=1200",
+      "featured": false,
+      "tags": ["bungee", "adventure", "rishikesh"]
+    },
+    {
+      "id": "paragliding",
+      "title": "Soaring Above the Clouds",
+      "category": "adventure-sports",
+      "location": "Bir Billing, Himachal Pradesh",
+      "date": "April 2024",
+      "description": "Paragliding over the Kangra Valley - experiencing the world from a bird's perspective. Pure freedom and peace combined.",
+      "image": "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=1200",
+      "featured": true,
+      "tags": ["paragliding", "himachal", "adventure", "flying"]
+    },
+    {
+      "id": "road-trip-coast",
+      "title": "Coastal Road Trip - Karnataka",
+      "category": "road-trips",
+      "location": "Karnataka Coast",
+      "date": "December 2024",
+      "description": "Driving along the scenic coastal highways, discovering hidden beaches and coastal villages. Perfect blend of adventure and relaxation.",
+      "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200",
+      "featured": false,
+      "tags": ["road-trip", "coast", "travel", "karnataka"]
+    }
+  ],
+  "photography": [
+    {
+      "id": "mountain-sunrise",
+      "title": "Golden Hour at the Summit",
+      "category": "landscape",
+      "location": "Triund, Himachal Pradesh",
+      "date": "March 2025",
+      "description": "Captured after a night trek, as the first rays of sun painted the Dhauladhar range in gold.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200",
+      "featured": true
+    },
+    {
+      "id": "waterfall-monsoon",
+      "title": "Monsoon Magic",
+      "category": "landscape",
+      "location": "Western Ghats",
+      "date": "July 2024",
+      "description": "The raw power and beauty of waterfalls during peak monsoon season.",
+      "image": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1200",
+      "featured": true
+    },
+    {
+      "id": "mountain-lake",
+      "title": "Alpine Serenity",
+      "category": "landscape",
+      "location": "Spiti Valley",
+      "date": "March 2025",
+      "description": "A pristine lake reflecting the snow-capped peaks - nature's perfect mirror.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200",
+      "featured": false
+    },
+    {
+      "id": "sunset-beach",
+      "title": "Coastal Sunset",
+      "category": "landscape",
+      "location": "Gokarna, Karnataka",
+      "date": "December 2024",
+      "description": "The perfect end to a day by the sea.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200",
+      "featured": false
+    }
+  ],
+  "community": [
+    {
+      "id": "game-night-1",
+      "title": "Weekly Board Game Nights",
+      "description": "Hosting regular game nights to bring the community together. From strategy games to party games, it's all about connection and laughter.",
+      "image": "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?w=1200",
+      "date": "Ongoing"
+    },
+    {
+      "id": "sports-event",
+      "title": "Community Sports Day",
+      "description": "Organizing and participating in local sports events. Team activities that build friendships and healthy competition.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200",
+      "date": "2024"
+    },
+    {
+      "id": "social-gathering",
+      "title": "Community Meetups",
+      "description": "Regular social gatherings bringing neighbors and friends together. Building connections that matter.",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1200",
+      "date": "Monthly"
+    }
+  ],
+  "creative": [
+    {
+      "id": "painting-1",
+      "title": "Mountain Landscapes",
+      "description": "Acrylic paintings inspired by my trekking adventures. Capturing the majesty of the mountains on canvas.",
+      "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=1200",
+      "medium": "Acrylic on Canvas"
+    },
+    {
+      "id": "painting-2",
+      "title": "Abstract Nature",
+      "description": "Experimenting with colors and forms inspired by nature's patterns.",
+      "image": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968?w=1200",
+      "medium": "Mixed Media"
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "Yuvaraj's enthusiasm and dedication to community building is infectious. His game nights have become the highlight of our month!",
+      "author": "Community Member",
+      "role": "Local Resident"
+    },
+    {
+      "text": "A natural leader who brings people together. His photography truly captures the spirit of adventure.",
+      "author": "Trek Companion",
+      "role": "Fellow Adventurer"
+    }
+  ]
+}
