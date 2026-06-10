@@ -25,8 +25,9 @@ export default function Home() {
             src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920"
             alt="Mountain landscape"
             fill
+            sizes="100vw"
             className="object-cover brightness-50"
-            priority
+            preload
           />
           <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/30 to-black/70" />
         </div>

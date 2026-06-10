@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import Gallery from "@/components/Gallery";
 import content from "@/data/content.json";
 
-export default function Photography() {
+export default function Creative() {
   return (
     <div className="min-h-screen bg-white py-20 px-4">
       <div className="max-w-7xl mx-auto">
@@ -13,14 +13,14 @@ export default function Photography() {
           animate={{ opacity: 1, y: 0 }}
           className="text-center mb-12"
         >
-          <h1 className="text-5xl font-bold mb-4 text-gray-900">Photography</h1>
+          <h1 className="text-5xl font-bold mb-4 text-gray-900">Creative Work</h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Landscapes, travel, and moments captured along the way. Click any
-            photo to view it full screen.
+            Paintings and artistic projects — the mountains inspire the canvas
+            as much as the camera.
           </p>
         </motion.div>
 
-        <Gallery items={content.photography} showFilters />
+        <Gallery items={content.creative} />
       </div>
     </div>
   );

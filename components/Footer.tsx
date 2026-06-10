@@ -33,6 +33,11 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/creative" className="hover:text-white transition-colors">
+                  Creative
+                </Link>
+              </li>
+              <li>
                 <Link href="/community" className="hover:text-white transition-colors">
                   Community
                 </Link>
